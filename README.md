@@ -37,9 +37,9 @@ BCDE
 
 **ЗАДАНИЯ**
 
-1) a) a -(b+c)*d
-   б) a - (b-(c-d))
-   в) (a-b) * (c-d)
+1) a)  a -(b+c)*d
+   б)  a - (b-(c-d))
+   в)  (a-b) * (c-d)
    
 2) а) ![image](https://github.com/user-attachments/assets/b77bfb37-478a-4a9c-b3e6-97831b321e9a)
    б) ![image](https://github.com/user-attachments/assets/a878b91c-b57a-46d0-b7cd-39ca2a8adc52) + * - * 2 a * 3 d c * 2 b,        2 a * 3 d * - c * 2 b * +
