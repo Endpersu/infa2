@@ -67,4 +67,21 @@ BCDE
 
    Сказать точно, как расположены населенные пункты, невозможно.
 
+6) ![image](https://github.com/user-attachments/assets/64acaa67-195e-4c4b-a2a2-6c36fed0ce89)
+
+   Список смежности:
+(A(B,C), B(A,C), C(A,B,D), D(C))
+
+7) а) ![image](https://github.com/user-attachments/assets/79cbf6a0-3873-4147-a5d1-3c1e3571703b)
+
+   б) ![image](https://github.com/user-attachments/assets/ddba4a03-6a97-46cf-99f4-233fbbaa8b76)
+
+   в) ![image](https://github.com/user-attachments/assets/1a698c65-e49e-4956-846a-5d10e6936c05)
+
+   г) ![image](https://github.com/user-attachments/assets/96b727eb-488e-482e-9c42-cbe82b6c4fa7)
+
+
+
+
+
 
