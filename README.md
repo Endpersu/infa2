@@ -42,8 +42,11 @@ BCDE
    в)  (a-b) * (c-d)
    
 2) а) ![image](https://github.com/user-attachments/assets/b77bfb37-478a-4a9c-b3e6-97831b321e9a) * + a b + c * 2 d, a b + c 2 d * + *
+   
    б) ![image](https://github.com/user-attachments/assets/a878b91c-b57a-46d0-b7cd-39ca2a8adc52) + * - * 2 a * 3 d c * 2 b,        2 a * 3 d * - c * 2 b * +
+   
    в) ![image](https://github.com/user-attachments/assets/a8d2f589-68f6-4bce-ae18-6632dc80c814) * + + a b * 2 c d, a b + 2 c * + d *
+   
    г) ![image](https://github.com/user-attachments/assets/6252de75-8b23-4360-af96-d4296cd61e16) - * 3 a * + * 2 b c d, 3 a * 2 b * c + d * -
 
 3) a) 66, (12+6) * (7-3-1) + 12, + * + 12 6 - - 7 3 1 12
