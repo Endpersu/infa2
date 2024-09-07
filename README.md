@@ -80,6 +80,52 @@ BCDE
 
    г) ![image](https://github.com/user-attachments/assets/96b727eb-488e-482e-9c42-cbe82b6c4fa7)
 
+8) а) ![image](https://github.com/user-attachments/assets/6a76a270-6293-4d10-b53f-e5d6a08d389d)
+
+   б) ![image](https://github.com/user-attachments/assets/cf3f0475-ae1f-4632-a0da-9d6ca84716f3)
+
+   в) ![image](https://github.com/user-attachments/assets/3327ab2e-7389-4b32-8ef0-d755249361f3)
+
+   г) ![image](https://github.com/user-attachments/assets/caf9b73c-f3ef-461f-9fb0-266e09d7e868)
+
+9) а) ![image](https://github.com/user-attachments/assets/8bac80b9-9ed3-499d-9847-d54ee5a83563)
+
+   б) ![image](https://github.com/user-attachments/assets/e32f3e79-44b4-42c5-824f-e90098f92783)
+
+   в) ![image](https://github.com/user-attachments/assets/dab83246-e534-4c13-985c-64b9d4275aba)
+
+   г) ![image](https://github.com/user-attachments/assets/b07d20dc-a31a-435a-bb0d-27d7232ec02d)
+
+10) а) два оптимальных маршрута, стоимость 7:
+    А(3)-С(4)-В, А(3)-С(2)-Е(2)-В
+    б) два оптимальных маршрута, стоимость 7:
+    А(3)-С(4)-В, А(1)-Е(2)-С(4)-В
+    в) стоимость 6:
+    А(4)-Е(2)-В
+    г) стоимость 8:
+    А(1)-D(4)-С(2)-Е(1)-В
+
+11) а) ![image](https://github.com/user-attachments/assets/466c71c1-4a3e-4cac-9dfb-7b988a1986df)
+
+    б) ![image](https://github.com/user-attachments/assets/e0f982e9-275c-462b-ac68-ca526c0f119a)
+
+    в) ![image](https://github.com/user-attachments/assets/86921130-b686-4c9f-bc39-003ef4209bc4)
+
+    г) ![image](https://github.com/user-attachments/assets/ac2c5bd0-e143-4753-a900-98cd5fda6f41)
+
+12) 12) Количество различных путей из А в К:
+    а) 33
+    б) 21
+    в) 22
+    г) 26
+
+
+
+
+
+
+
+
 
 
 
